@@ -274,7 +274,7 @@ class FileMountHelper(object):
 
         All intermediate directories of 'source' will be owned by $USER,
         excluding the root directory (/).
-
+""" """
         'source' must be an absolute path; both 'source' and 'target' must not
         end with a slash (/).
 
